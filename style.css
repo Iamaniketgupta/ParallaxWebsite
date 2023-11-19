@@ -78,33 +78,33 @@
     display: none;
 }
 .parallax-first{
-    background-image: url("/ParallaxWebsite/Assets/p3.jpg");
+    background-image: url("/Assets/p3.jpg");
     transform-style:preserve-3d;
 
 }
 .parallax-second {
-    background-image: url("/ParallaxWebsite/Assets/p2.jpg");
+    background-image: url("/Assets/p2.jpg");
 }
 
 .parallax-third {
     
-    background-image: url("/ParallaxWebsite/Assets/p5.jpg");
+    background-image: url("/Assets/p5.jpg");
 
 }
 
 .parallax-fourth {
     
-    background-image: url("/ParallaxWebsite/Assets/p6.jpg");
+    background-image: url("/Assets/p6.jpg");
 
 }
 .parallax-fifth {
     
-    background-image: url("/ParallaxWebsite/Assets/p7.jpg");
+    background-image: url("/Assets/p7.jpg");
 
 }
 .parallax-sixth {
     
-    background-image: url("/ParallaxWebsite/Assets/p8.jpg");
+    background-image: url("/Assets/p8.jpg");
 
 }
 .grass,
@@ -187,7 +187,7 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background-image: url("/ParallaxWebsite/Assets/logo.png");
+    background-image: url("/Assets/logo.png");
     box-shadow: 2px 2px 16px black;
    background-size: cover;
    background-position: 4px -2px;
